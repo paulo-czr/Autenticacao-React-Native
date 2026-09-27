@@ -3,6 +3,10 @@
 # dependencies
 node_modules/
 
+.vscode
+.claude
+AGENTS.md
+
 # Expo
 .expo/
 dist/
